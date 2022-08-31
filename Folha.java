@@ -107,7 +107,7 @@ public class Folha {
                         switch(option2){
                             case 1:
                                 String name_change = scn.nextLine();
-                                funcionarios. = name_change;
+                                
                                 break;
                             case 0: break;
 
